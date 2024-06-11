@@ -1,7 +1,6 @@
-package dev.epicsquid.cornmaze.data
+package dev.epicsquid.slimetime.data
 
-import dev.epicsquid.cornmaze.SlimeTime
-import dev.epicsquid.cornmaze.registry.BlockRegistry
+import dev.epicsquid.slimetime.SlimeTime
 import net.minecraft.data.loot.packs.VanillaBlockLoot
 import net.minecraft.world.level.block.Block
 import net.minecraftforge.registries.ForgeRegistries

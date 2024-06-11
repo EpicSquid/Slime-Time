@@ -1,9 +1,9 @@
-package dev.epicsquid.cornmaze
+package dev.epicsquid.slimetime
 
-import dev.epicsquid.cornmaze.data.*
-import dev.epicsquid.cornmaze.registry.BlockRegistry
-import dev.epicsquid.cornmaze.registry.CreativeTabRegistry
-import dev.epicsquid.cornmaze.registry.ItemRegistry
+import dev.epicsquid.slimetime.data.*
+import dev.epicsquid.slimetime.registry.BlockRegistry
+import dev.epicsquid.slimetime.registry.CreativeTabRegistry
+import dev.epicsquid.slimetime.registry.ItemRegistry
 import net.minecraft.data.loot.LootTableProvider
 import net.minecraft.data.loot.LootTableProvider.SubProviderEntry
 import net.minecraft.world.level.storage.loot.parameters.LootContextParamSets

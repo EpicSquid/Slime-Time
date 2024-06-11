@@ -1,8 +1,6 @@
-package dev.epicsquid.cornmaze.data
+package dev.epicsquid.slimetime.data
 
-import dev.epicsquid.cornmaze.SlimeTime
-import dev.epicsquid.cornmaze.registry.BlockRegistry
-import dev.epicsquid.cornmaze.registry.ItemRegistry
+import dev.epicsquid.slimetime.SlimeTime
 import net.minecraft.data.PackOutput
 import net.minecraftforge.common.data.LanguageProvider
 

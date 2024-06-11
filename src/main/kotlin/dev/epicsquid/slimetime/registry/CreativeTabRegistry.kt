@@ -1,6 +1,6 @@
-package dev.epicsquid.cornmaze.registry
+package dev.epicsquid.slimetime.registry
 
-import dev.epicsquid.cornmaze.SlimeTime
+import dev.epicsquid.slimetime.SlimeTime
 import net.minecraft.core.registries.Registries
 import net.minecraft.network.chat.Component
 import net.minecraft.world.item.CreativeModeTab

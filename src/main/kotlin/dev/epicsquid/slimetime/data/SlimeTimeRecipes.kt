@@ -1,4 +1,4 @@
-package dev.epicsquid.cornmaze.data
+package dev.epicsquid.slimetime.data
 
 import net.minecraft.data.PackOutput
 import net.minecraft.data.recipes.FinishedRecipe

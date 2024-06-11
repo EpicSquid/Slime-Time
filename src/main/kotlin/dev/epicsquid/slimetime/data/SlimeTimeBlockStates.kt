@@ -1,6 +1,6 @@
-package dev.epicsquid.cornmaze.data
+package dev.epicsquid.slimetime.data
 
-import dev.epicsquid.cornmaze.SlimeTime
+import dev.epicsquid.slimetime.SlimeTime
 import net.minecraft.data.PackOutput
 import net.minecraft.resources.ResourceLocation
 import net.minecraft.world.level.block.Block
